@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "8zGd8ronh1F1Qoi1NzluZV7jOmmDi8/QWqao3bS22hM=",
+  "Source": "MySite",
+  "BasePath": "_content/MySite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MySite\\wwwroot",
+      "Source": "MySite",
+      "ContentRoot": "E:\\GITHUB\\MySite\\wwwroot\\",
+      "BasePath": "_content/MySite",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
