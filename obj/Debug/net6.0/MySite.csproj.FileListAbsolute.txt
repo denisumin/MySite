@@ -20,3 +20,5 @@ E:\GITHUB\MySite\obj\Debug\net6.0\refint\MySite.dll
 E:\GITHUB\MySite\obj\Debug\net6.0\MySite.pdb
 E:\GITHUB\MySite\obj\Debug\net6.0\MySite.genruntimeconfig.cache
 E:\GITHUB\MySite\obj\Debug\net6.0\ref\MySite.dll
+E:\GITHUB\MySite\obj\Debug\net6.0\MySite.RazorAssemblyInfo.cache
+E:\GITHUB\MySite\obj\Debug\net6.0\MySite.RazorAssemblyInfo.cs
